@@ -8,8 +8,8 @@
     <ProjectGuid>{8DD69013-091B-4582-B899-BBEA38D2F36F}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>ExecutionRequeteInsert</RootNamespace>
-    <AssemblyName>ExecutionRequeteInsert</AssemblyName>
+    <RootNamespace>AppStagiaires</RootNamespace>
+    <AssemblyName>AppStagiaires</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <TargetFrameworkProfile>Client</TargetFrameworkProfile>
     <FileAlignment>512</FileAlignment>
